@@ -5,5 +5,4 @@
 ## payout 
 # banner
 # subscription
-# process payout
-# j
+# referral dynamic
