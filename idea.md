@@ -3,6 +3,6 @@
 
 ## QR code 
 ## payout 
+# referral dynamic
 # banner
 # subscription
-# referral dynamic
