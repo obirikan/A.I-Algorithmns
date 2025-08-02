@@ -1,0 +1,8 @@
+We previewed the first few rows of the data set using the .head() method.
+We checked the data type of each variable in the data set using .dtypes and corrected variables with incorrect data types.
+We investigated our categorical data to inform categorical encoding.
+We investigated the scale of our quantitative variables and considered whether standardizing/scaling might be appropriate.
+We investigated missing data.
+We checked for outliers.
+We inspected the distributions of our quantitative variables.
+We looked at the relationships between pairs of features using both scatter plots and box plots.
