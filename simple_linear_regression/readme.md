@@ -1,4 +1,4 @@
-# Simple Linear Regression – Explained for AI Interviews
+# Simple Linear Regression 
 
 This guide explains **Simple Linear Regression**, a core idea in AI and statistics. It models the relationship between `x` (input) and `y` (output) using a straight line.
 
